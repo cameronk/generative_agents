@@ -6,8 +6,9 @@ Variables:
 !<INPUT 2>! -- agent name
 !<INPUT 3>! -- interlocutor name and description
 !<INPUT 4>! -- prev convo
-!<INPUT 5>! -- retrieve summary
-!<INPUT 6>! -- agent name
+!<INPUT 5>! -- agent name
+!<INPUT 6>! -- retrieve summary
+!<INPUT 7>! -- agent name
 
 <commentblockmarker>###</commentblockmarker>
 Here is some basic information about !<INPUT 0>!.
